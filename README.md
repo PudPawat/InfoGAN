@@ -1,1 +1,2 @@
-# InfoGAN in jupyter notebook
+# Pawat 
+InfoGAN in jupyter notebook
