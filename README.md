@@ -1,4 +1,4 @@
-# InfoGAN-in-jupyter-notebook-files
+# InfoGAN
 InfoGAN in jupyter notebook
 
 In this Git, there are two main files. 
